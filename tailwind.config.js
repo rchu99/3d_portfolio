@@ -21,6 +21,12 @@ module.exports = {
         backgroundImage: {
           "hero-pattern": "url('/src/assets/herobg.png')",
         },
+        width: {
+          'custom-w': '20px', // Custom width example
+        },
+        height: {
+          'custom-h': '20px', // Custom height example
+        }
       },
     },
     plugins: [],
